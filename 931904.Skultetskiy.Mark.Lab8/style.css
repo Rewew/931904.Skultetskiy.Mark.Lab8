@@ -1,0 +1,20 @@
+body 
+{
+	padding: 0px;
+	margin: 0px;
+}
+
+table 
+{
+	border-spacing: 0px;
+}
+
+.add_row_btn
+{
+	width: 172px;
+}
+
+.save_btn
+{
+	width: 172px;
+}
